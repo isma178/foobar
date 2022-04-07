@@ -5,9 +5,9 @@ Each challenge is given randomly
 
 ## Level 1
 
-### [Minion Work Assignments](minions/readme.txt)
+### [Minion Work Assignments](minions)
 
 ## Level 2
 
-### [En Route Salute](salute/readme.txt)
-### [Ion Flux Relabeling](ion/readme.txt)
+### [En Route Salute](salute)
+### [Ion Flux Relabeling](ion)
