@@ -11,3 +11,8 @@ Each challenge is given randomly
 
 ### [En Route Salute](salute)
 ### [Ion Flux Relabeling](ion)
+
+## Level 3
+
+### [Doomsday Fuel](doomsday)
+
